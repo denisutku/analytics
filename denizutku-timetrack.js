@@ -7,5 +7,4 @@
  	    window.pageTracker ? pageTracker._trackEvent('ZiyaretSuresi', 'Dakika', tos) : _gaq.push(['_trackEvent', 'ZiyaretSuresi', 'Dakika', tos]); 
 	  }, 30000);
 	})('00');
-// Bir saniye 1000 milisaniye
 </script>
